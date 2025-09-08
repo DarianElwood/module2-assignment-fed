@@ -13,4 +13,5 @@ I added the basic structure of the website, then added additional elements/infor
 I did not face any real challenges with this assignment. 
 
 ## What would I do differently now?
+
 I would add a bit more detail to my project. 
