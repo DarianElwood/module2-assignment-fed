@@ -55,3 +55,13 @@ img:hover {
     font-size: small;
     padding: 1em;
 }
+
+.hidden {
+    position: absolute;
+    left: -9999px;
+    right: -9999px;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    margin: -1px;
+}
